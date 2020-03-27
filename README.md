@@ -1,0 +1,1 @@
+# Sonarr-EpisodeFile-Auto-Delete
